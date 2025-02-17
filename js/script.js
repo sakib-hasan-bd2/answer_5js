@@ -7,3 +7,7 @@ function sakib(numbers) {
     console.log("Zero");
   }
 }
+
+console.log(sakib(5)); // Positive
+console.log(sakib(-5)); // Negative
+console.log(sakib(0)); // Zero
